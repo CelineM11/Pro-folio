@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "Personal profolio",
+			"path": "."
+		},
+		{
+			"name": "my_search_engine",
+			"path": "../../Software Bootcamp/my_search_engine"
+		},
+		{
+			"name": "Project 2",
+			"path": "../../Software Bootcamp/Project 2"
+		},
+		{
+			"name": "sloth-search",
+			"path": "../../Software Bootcamp/sloth-search"
+		}
+	],
+	"settings": {}
+}
